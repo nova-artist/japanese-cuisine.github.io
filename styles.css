@@ -1,0 +1,193 @@
+body{
+    background-color: white;
+}
+
+.box{
+    background-color: black;
+    padding: 15px;
+    margin: -12px;
+    margin-bottom: -3em;
+    width: 100%;
+}
+
+h1{
+    text-align: left;
+    color: white;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    font-style: normal;
+    padding-left: 4.5em;
+    padding-top: 0.6em;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-family: 'Sacramento', cursive;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    padding-left: 5em;
+}
+
+h3{
+    text-align: center;
+    color:white;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 40em;
+    padding-top: 0.5em;
+
+}
+
+nav{
+    position: absolute;
+    top: 3em;
+    right: 2em;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav a{   
+    display: block;
+    margin-left: 0.7em;
+    padding: 0.8em 1.2em;
+    text-decoration: none;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    font-size: 1.8em;
+    color: white;
+}
+
+#banner{
+    position: relative;
+    background-image: no-repeat center;
+    background-size: cover;
+}
+
+#banner img{
+    width: 2002px;
+    height: 450px;
+    padding-left: 0em;
+    margin-left: -6em;
+    margin-top: -10em;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    padding-left: 8em;
+}
+
+.fifty p{
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    text-align: center;
+    padding-left: 7em;
+
+}
+
+ul.style1 a{
+    color: crimson;
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
+
+ul.style1 p{
+    margin-left: 7.5em;
+    padding-block-end: 0.7em;
+    text-align: left;
+}
+
+ul.style1 img{
+    width: 15%;   
+    height: 15%;
+    text-align: center;
+    float: left;
+}
+
+.cont{
+    width: 100%;
+    background-color: rgb(61, 8, 8);
+    margin-top: 11em;
+    margin-left: -2em;
+    margin-bottom: -9em;
+    padding-right: 2.3em;
+    padding-bottom: 10em;
+}
+
+.fifty{
+    width: 30%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    background-color:white;
+    margin-top: 4em;
+} 
+
+#footer{
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    font-size: 2.2em;
+    color: crimson;
+    margin-top: 4em;
+}
+
+#footer h4{
+    font-weight: normal;
+}
+
+.box2{
+    background-color: black;
+    padding: 15px;
+    padding-right: 2em;
+    margin: -12px;
+    margin-left: -2em;
+    margin-right: 1em;
+    width: 100%;
+}
+
+#style2 h2{
+    text-align: left;
+    font-size: 70px;
+    color: black;
+    margin-left: -1.7em;
+    margin-top: -0em;
+}
+
+#style2 img{
+    text-align: right;
+    margin-left: 6em;
+    width: 30%;
+    height: 30%;
+    margin-bottom: 35em;
+}
+
+#style2 p{
+    text-align: right;
+    margin-top: -36em;
+    margin-left: 35em;
+    margin-right: 7em;
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
+
+#style3 img{
+    width: 25%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    background-color:white;
+    margin-top: 30em;
+}
